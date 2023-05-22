@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+gitDefinition="Git is a software tool that helps developers keep track of changes made to thier code over time."
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+gitHubDefinition="Github is web platform for hosting and collaborating on Git repos."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+GitInitDefinition="git init is a Git command used to initialize a new repository in a directory."
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+gitCloneDefinition="git clone is a Git command used to make a copy of an existing Git repository in a new directory."
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+gitStatusDefinition="git status is a Git command used to display the current state of the repository, including any changes or modifications made to files."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,10 @@
 
 //CODE HERE
 
+gitAddDefinition="git add is a Git command used to stage changes made to files in a repository, preparing them to be committed to the repository's history."
+
+gitAddCode="git add ."
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +79,9 @@
 
 //CODE HERE
 
+gitCommitDefiniton="git commit is a Git command used to save changes to the repository's history, creating a new snapshot of the current state of the code. The commit includes a message that describes the changes made, so you can track and understand the history of the code."
+
+gitCommitCode="git commit -m 'Initial commit'"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +90,5 @@
 */
 
 //CODE HERE
+
+gitPushDefinition="git push is a Git command used to upload or 'push' local repository content to a remote repository, like GitHub. It sends the committed changes to the remote repository, updating its contents to match the local repository."
